@@ -1,4 +1,4 @@
-# DR-Techniques-and-Clustering and 🛰️ EuroSAT Image Analysis 
+# DR-Techniques, Clustering and 🛰️ EuroSAT Image Analysis 
 
 ## 📌 Project Title:
 **Performance Analysis of Dimensionality Reduction & Clustering Techniques on EuroSAT Satellite Imagery**
